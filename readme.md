@@ -30,7 +30,7 @@ For better understanding , View the project 😊😊
 
 Worry about the commands !!!
 
->> Type "play --help" in the terminal
+>> Type "play --help" in the terminal.
 
 
 
