@@ -12,13 +12,13 @@ Use **__File Organizer__** and play with you files.
 
 >> Before Using File Organizer
 
-![Ramdomly arranged files!](/assets/Screenshot 2022-05-14 152923.png "Random Files")
+![Ramdomly arranged files!](/assets/Screenshot 2022-05-14 152923.png)
 
 >> After Using File Organizer
 
-![Organized files!](/assets/Screenshot 2022-05-14 154153.png "Organized Files")
+![Organized files!](/assets/Screenshot 2022-05-14 154153.png)
 
-![Organized files!](/assets/video1039137453.mp4 "Organized Files")
+!
 
 
 
