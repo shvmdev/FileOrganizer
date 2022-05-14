@@ -12,11 +12,15 @@ Use **__File Organizer__** and play with you files.
 
 >> Before Using File Organizer
 
-![Ramdomly arranged files](https://image.shutterstock.com/image-photo/mountains-under-mist-morning-amazing-260nw-1725825019.jpg)
+![Ramdomly arranged files](/assets/img1.png)
 
 >> After Using File Organizer
 
-![Organized files](https://image.shutterstock.com/image-photo/mountains-under-mist-morning-amazing-260nw-1725825019.jpg)
+![Organized files](/assets/img2.png)
+
+Files Organized Successfully inside the organized folder 😃😃
+
+For better understanding , View the project 😊😊
 
 
 
