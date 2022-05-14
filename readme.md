@@ -4,9 +4,9 @@
 ## File Organizer
 
 
-Frustrated after seeing your randomply placed files in the folder 😡😡
+Frustrated after seeing your randomly placed files in the folder 😡😡
 
-Use **__File Organizer__** and play with you files.
+Use **__File Organizer__** and play with your files using play command.
 
 > Want to see the magic !!!
 
@@ -21,9 +21,16 @@ Use **__File Organizer__** and play with you files.
 
 ![Organized files](/assets/img2.png)
 
+
+
 Files Organized Successfully inside the organized folder 😃😃
 
 For better understanding , View the project 😊😊
+
+
+Worry about the commands !!!
+
+1. Use play --help
 
 
 
