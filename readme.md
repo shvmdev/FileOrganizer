@@ -12,9 +12,12 @@ Use **__File Organizer__** and play with you files.
 
 >> Before Using File Organizer
 
+
 ![Ramdomly arranged files](/assets/img1.png)
 
+
 >> After Using File Organizer
+
 
 ![Organized files](/assets/img2.png)
 
